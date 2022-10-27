@@ -1,5 +1,5 @@
 import "./ExpenseItem.css";
-import ExpenseDate from "./ExpenseDate/ExpenseDate.js";
+import ExpenseDate from "./ExpenseDate.js";
 import { useState } from "react";
 
 const ExpenseItem = (props) => {
